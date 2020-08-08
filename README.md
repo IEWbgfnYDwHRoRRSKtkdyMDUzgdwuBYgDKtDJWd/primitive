@@ -65,13 +65,12 @@ You can use the `-o` flag multiple times. This way you can save both a PNG and a
 
 This GIF demonstrates the iterative nature of the algorithm, attempting to minimize the mean squared error by adding one shape at a time. (Use a ".gif" output file to generate one yourself!)
 
-<img src="https://www.michaelfogleman.com/static/primitive/examples/monalisa.3.2000.gif" width="440"/> <img src="https://www.michaelfogleman.com/static/primitive/examples/monalisa-original.png" width="440"/>
+src="https://www.michaelfogleman.com/static/primitive/examples/monalisa-original.png" width="440"/>
 
 ### Static Animation
 
 Since the algorithm has a random component to it, you can run it against the same input image multiple times to bring life to a static image.
 
-![Pencils](https://www.michaelfogleman.com/static/primitive/examples/pencils.gif)
 
 ### Creative Constraints
 
@@ -137,23 +136,3 @@ It should be noted that there are significant differences in my implementation c
 
 Here are more examples from interesting photos found on Flickr.
 
-![Example](https://www.michaelfogleman.com/static/primitive/examples/29167683201.png)
-![Example](https://www.michaelfogleman.com/static/primitive/examples/26574286221.200.128.4.1.png)
-![Example](https://www.michaelfogleman.com/static/primitive/examples/15011768709.200.128.4.1.png)
-![Example](https://www.michaelfogleman.com/static/primitive/examples/27540729075.200.128.4.1.png)
-![Example](https://www.michaelfogleman.com/static/primitive/examples/28896874003.png)
-![Example](https://www.michaelfogleman.com/static/primitive/examples/20414282102.png)
-![Example](https://www.michaelfogleman.com/static/primitive/examples/15199237095.200.128.4.1.png)
-![Example](https://www.michaelfogleman.com/static/primitive/examples/11707819764.200.128.4.1.png)
-![Example](https://www.michaelfogleman.com/static/primitive/examples/18270231645.200.128.4.3.png)
-![Example](https://www.michaelfogleman.com/static/primitive/examples/15705764893.png)
-![Example](https://www.michaelfogleman.com/static/primitive/examples/25213252889.png)
-![Example](https://www.michaelfogleman.com/static/primitive/examples/15015411870.200.128.4.3.png)
-![Example](https://www.michaelfogleman.com/static/primitive/examples/25766500104.png)
-![Example](https://www.michaelfogleman.com/static/primitive/examples/27471731151.50.128.4.1.png)
-![Example](https://www.michaelfogleman.com/static/primitive/examples/11720700033.200.128.4.3.png)
-![Example](https://www.michaelfogleman.com/static/primitive/examples/18782606664.png)
-![Example](https://www.michaelfogleman.com/static/primitive/examples/21374478713.png)
-![Example](https://www.michaelfogleman.com/static/primitive/examples/15196426112.200.128.4.5.png)
-![Example](https://www.michaelfogleman.com/static/primitive/examples/24696847962.png)
-![Example](https://www.michaelfogleman.com/static/primitive/examples/18276676312.100.128.4.1.png)
